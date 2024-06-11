@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA415C482C1894930096A581 /* DangerPackage in Frameworks */ = {isa = PBXBuildFile; productRef = EA415C472C1894930096A581 /* DangerPackage */; };
 		EAE20C9D2C18682C00DA2860 /* TestingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE20C9C2C18682C00DA2860 /* TestingApp.swift */; };
 		EAE20C9F2C18682C00DA2860 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE20C9E2C18682C00DA2860 /* ContentView.swift */; };
 		EAE20CA12C18682E00DA2860 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAE20CA02C18682E00DA2860 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EA5D5F812C1895C20046135C /* DangerPackage */ = {isa = PBXFileReference; lastKnownFileType = text; path = DangerPackage; sourceTree = SOURCE_ROOT; };
 		EAE20C992C18682C00DA2860 /* Testing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Testing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAE20C9C2C18682C00DA2860 /* TestingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingApp.swift; sourceTree = "<group>"; };
 		EAE20C9E2C18682C00DA2860 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -26,6 +28,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA415C482C1894930096A581 /* DangerPackage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,6 +54,7 @@
 		EAE20C9B2C18682C00DA2860 /* Testing */ = {
 			isa = PBXGroup;
 			children = (
+				EA5D5F812C1895C20046135C /* DangerPackage */,
 				EAE20C9C2C18682C00DA2860 /* TestingApp.swift */,
 				EAE20C9E2C18682C00DA2860 /* ContentView.swift */,
 				EAE20CA02C18682E00DA2860 /* Assets.xcassets */,
@@ -83,6 +87,9 @@
 			dependencies = (
 			);
 			name = Testing;
+			packageProductDependencies = (
+				EA415C472C1894930096A581 /* DangerPackage */,
+			);
 			productName = Testing;
 			productReference = EAE20C992C18682C00DA2860 /* Testing.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +118,8 @@
 				Base,
 			);
 			mainGroup = EAE20C902C18682C00DA2860;
+			packageReferences = (
+			);
 			productRefGroup = EAE20C9A2C18682C00DA2860 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -287,9 +296,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.rccl.Testing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -316,9 +329,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.rccl.Testing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -344,6 +361,13 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		EA415C472C1894930096A581 /* DangerPackage */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = DangerPackage;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = EAE20C912C18682C00DA2860 /* Project object */;
 }
