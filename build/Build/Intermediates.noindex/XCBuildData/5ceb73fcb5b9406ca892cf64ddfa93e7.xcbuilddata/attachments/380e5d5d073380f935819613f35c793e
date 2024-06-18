@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/TestingTests-master.dia",
+    "emit-module-dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/TestingTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/TestingTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/TestingTests-master.swiftdeps"
+  },
+  "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/TestingTests/ContentDataModelTests.swift" : {
+    "const-values" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/ContentDataModelTests.swiftconstvalues",
+    "dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/ContentDataModelTests.d",
+    "diagnostics" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/ContentDataModelTests.dia",
+    "index-unit-output-path" : "/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/ContentDataModelTests.o",
+    "llvm-bc" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/ContentDataModelTests.bc",
+    "object" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/ContentDataModelTests.o",
+    "swift-dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/ContentDataModelTests.swiftdeps",
+    "swiftmodule" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/TestingTests.build/Objects-normal/arm64/ContentDataModelTests~partial.swiftmodule"
+  }
+}

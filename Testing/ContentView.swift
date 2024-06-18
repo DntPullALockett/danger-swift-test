@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var isOpened:   Bool = false
+    @State var isOpened: Bool = false
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -19,8 +19,11 @@ struct ContentView: View {
         }
         .padding()
     }
+
 }
 
 #Preview {
     ContentView()
 }
+
+

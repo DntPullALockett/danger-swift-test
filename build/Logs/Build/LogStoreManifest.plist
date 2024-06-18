@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>16A8C616-FB8D-43B4-9056-F4751BC9E32D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>16A8C616-FB8D-43B4-9056-F4751BC9E32D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Testing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Testing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project Testing with scheme Testing</string>
+			<key>timeStartedRecording</key>
+			<real>740406353.51884997</real>
+			<key>timeStoppedRecording</key>
+			<real>740406365.50580704</real>
+			<key>title</key>
+			<string>Testing project Testing with scheme Testing</string>
+			<key>uniqueIdentifier</key>
+			<string>16A8C616-FB8D-43B4-9056-F4751BC9E32D</string>
+		</dict>
+		<key>9EBD5353-E01D-4162-BBFF-C84D6B896B93</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9EBD5353-E01D-4162-BBFF-C84D6B896B93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Testing project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Testing</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Testing with scheme Testing</string>
+			<key>timeStartedRecording</key>
+			<real>740406338.79957199</real>
+			<key>timeStoppedRecording</key>
+			<real>740406353.45708799</real>
+			<key>title</key>
+			<string>Building project Testing with scheme Testing</string>
+			<key>uniqueIdentifier</key>
+			<string>9EBD5353-E01D-4162-BBFF-C84D6B896B93</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
