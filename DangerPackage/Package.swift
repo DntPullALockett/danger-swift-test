@@ -15,6 +15,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/danger/swift.git", exact: "3.18.1"),
+        .package(url: "https://github.com/f-meloni/danger-swift-coverage", from: "1.2.1")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
@@ -23,6 +24,7 @@ let package = Package(
             name: "DangerPackage",
             dependencies: [
                 .product(name: "Danger", package: "swift"),
+                .product(name: "DangerSwiftCoverage", package: "danger-swift-coverage"),
             ]),
         .testTarget(
             name: "DangerPackageTests",

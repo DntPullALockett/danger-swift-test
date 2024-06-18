@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/Testing-master.dia",
+    "emit-module-dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/Testing-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/Testing-master-emit-module.dia",
+    "swift-dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/Testing-master.swiftdeps"
+  },
+  "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/Testing/ContentDataModel.swift" : {
+    "const-values" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentDataModel.swiftconstvalues",
+    "dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentDataModel.d",
+    "diagnostics" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentDataModel.dia",
+    "index-unit-output-path" : "/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentDataModel.o",
+    "llvm-bc" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentDataModel.bc",
+    "object" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentDataModel.o",
+    "swift-dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentDataModel.swiftdeps",
+    "swiftmodule" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentDataModel~partial.swiftmodule"
+  },
+  "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/Testing/ContentView.swift" : {
+    "const-values" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/Testing/TestingApp.swift" : {
+    "const-values" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/TestingApp.swiftconstvalues",
+    "dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/TestingApp.d",
+    "diagnostics" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/TestingApp.dia",
+    "index-unit-output-path" : "/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/TestingApp.o",
+    "llvm-bc" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/TestingApp.bc",
+    "object" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/TestingApp.o",
+    "swift-dependencies" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/TestingApp.swiftdeps",
+    "swiftmodule" : "/Users/alockett@rccl.com/Library/CloudStorage/OneDrive-RoyalCaribbeanGroup/Desktop/danger-swift-test/build/Build/Intermediates.noindex/Testing.build/Debug-iphonesimulator/Testing.build/Objects-normal/arm64/TestingApp~partial.swiftmodule"
+  }
+}
